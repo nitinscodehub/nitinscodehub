@@ -146,7 +146,7 @@ With a strong foundation in **cybersecurity, networking, and AI**, I specialize 
 
 
 ## 📈 LeetCode and Other Profiles:
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/nitingithub12/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/ynJHWbuuyU/)
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/dhurvenitin05)
 
