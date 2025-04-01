@@ -118,6 +118,9 @@ With a strong foundation in **cybersecurity, networking, and AI**, I specialize 
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-%23FF5C5C.svg?style=for-the-badge&logo=daVinci%20resolve&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+ <h1>🥇🕵️ TryHackMe badge </h1>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4449680" style='border:none;'></iframe>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nitinscodehub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
