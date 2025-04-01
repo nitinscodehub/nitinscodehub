@@ -119,7 +119,7 @@ With a strong foundation in **cybersecurity, networking, and AI**, I specialize 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
-![🥇🕵️TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/4449680.png)
+<h1>🥇🕵️TryHackMe Badge</h1><br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/ni23beccs33.png" alt="Your Image Badge" />
 
 # 📊 GitHub Stats:
