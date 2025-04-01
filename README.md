@@ -119,7 +119,7 @@ With a strong foundation in **cybersecurity, networking, and AI**, I specialize 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
  <h1>🥇🕵️ TryHackMe badge </h1>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4449680" style='border:none;'></iframe>
+<p><iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4449680" style='border:none;'></iframe></p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nitinscodehub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
