@@ -120,7 +120,8 @@ With a strong foundation in **cybersecurity, networking, and AI**, I specialize 
 
 
 <h1>🥇🕵️TryHackMe Badge</h1><br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/ni23beccs33.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/ni23beccs33.png" alt="TryHackMe Badge" />
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nitinscodehub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
