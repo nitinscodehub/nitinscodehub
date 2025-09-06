@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/GRPy8MKag9U1U88hzY/giphy.gif" width="30%">
+  <img src="[https://media.giphy.com/media/GRPy8MKag9U1U88hzY/giphy.gif](https://media1.tenor.com/m/LU1cyLealXkAAAAC/hacker-hack.gif)" width="30%">
 </p>
 
 # 👨‍💻 About Me
