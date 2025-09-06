@@ -104,33 +104,24 @@ Let’s connect & collaborate on **cybersecurity and ethical hacking projects** 
   <img src="https://tryhackme-badges.s3.amazonaws.com/ni23beccs33.png" alt="TryHackMe Badge" />
 </p>
 
----
-
-
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nitinscodehub&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinscodehub&theme=radical&hide_border=false" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nitinscodehub&theme=radical&hide_border=false" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinscodehub&layout=compact&theme=radical&hide_border=false&langs_count=10" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinscodehub&layout=compact&theme=radical&hide_border=false&langs_count=8" height="180em" />
 </p>
 
 ---
 
-### ⚡ Recent GitHub Activity
+### ⚡ Recent GitHub Activity  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinscodehub&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinscodehub&theme=radical&hide_border=false&area=true" />
 </p>
 
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/nitinscodehub/nitinscodehub/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 
 
