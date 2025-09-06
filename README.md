@@ -149,13 +149,15 @@ Let’s connect & collaborate on **cybersecurity and ethical hacking projects** 
 
 ---
 
-
 # 🎬 Fun Corner:
-> "Why do programmers prefer dark mode? Because light attracts bugs!" 🐞
-> "How many programmers does it take to change a light bulb? None, that's a hardware problem." 💡
+> 🐍 Why did the Python developer break up with his girlfriend?  
+> Because she had too many *C++* issues.  
+
+> 🔐 Why don’t hackers ever get locked out of their houses?  
+> Because they always have a *backdoor*.  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30%">
+  <img src="https://media.giphy.com/media/Rkis28kMJd1aE/giphy.gif" width="30%">
 </p>
 
 ## 📧 Contact Me:
