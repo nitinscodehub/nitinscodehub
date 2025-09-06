@@ -106,10 +106,11 @@ Let’s connect & collaborate on **cybersecurity and ethical hacking projects** 
 
 ---
 
+
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitinscodehub&show_icons=true&theme=radical&hide_border=false&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nitinscodehub&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinscodehub&theme=radical&hide_border=false" height="180em" />
 </p>
 
@@ -120,12 +121,16 @@ Let’s connect & collaborate on **cybersecurity and ethical hacking projects** 
 ---
 
 ### ⚡ Recent GitHub Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nitinscodehub&theme=react-dark&hide_border=true&area=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinscodehub&theme=react-dark&hide_border=true&area=true" />
+</p>
 
 ---
 
 ### 🐍 Contribution Snake
-![Snake animation](https://github.com/nitinscodehub/nitinscodehub/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/nitinscodehub/nitinscodehub/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 
 
