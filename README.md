@@ -111,9 +111,7 @@ Let’s connect & collaborate on **cybersecurity and ethical hacking projects** 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nitinscodehub&theme=radical&hide_border=false" height="180em" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinscodehub&layout=compact&theme=radical&hide_border=false&langs_count=8" height="180em" />
-</p>
+
 
 ---
 
