@@ -7,82 +7,59 @@
   <img src="https://media.giphy.com/media/GRPy8MKag9U1U88hzY/giphy.gif" width="30%">
 </p>
 
+# 👨‍💻 About Me
 
+I’m **Nitin Dhurve**, a **Cybersecurity Aspirant, Bug Bounty Hunter, and Security Researcher**.
+Currently pursuing **B.Tech in Cyber Security at CU Jammu (2023–2027)**, I specialize in **ethical hacking, penetration testing, and network security**.
 
-🚀 About Me:  
-I’m a **tech entrepreneur, cybersecurity specialist, and AI-driven innovator** with a deep passion for **networking, ethical hacking, and artificial intelligence**. As the **founder of TechSanskriti**, my vision is to build **next-generation security solutions and AI-powered applications** that redefine industry standards.  
-
-With a strong foundation in **cybersecurity, networking, and AI**, I specialize in **offensive security, secure system design, and intelligent automation**. I thrive on pushing the limits of technology, breaking barriers, and developing solutions that **merge AI with cybersecurity** to tackle modern threats.  
-
----
-
-## 🔹 What I’m Working On:  
-🚀 **Leading TechSanskriti** – Innovating at the intersection of **AI, security, and full-stack development**.  
-🔐 **Cybersecurity Research** – Exploring advanced **penetration testing, threat intelligence, and AI-driven security models**.  
-🤖 **AI-Powered Applications** – Leveraging **machine learning, computer vision, and NLP** for security and automation.  
-🖥 **Networking & Cloud Security** – Specializing in **network defense, cloud security (AWS, Azure), and SDN security**.  
-🛡 **Ethical Hacking & Red Teaming** – Building **custom exploit scripts, testing vulnerabilities, and securing enterprise networks**.  
+With hands-on experience in **real-world bug bounties, TryHackMe top 10% labs, and hackathon wins**, I’m passionate about breaking systems to secure them. My focus is on **offensive security, exploit development, and practical hacking techniques** that help organizations stay ahead of evolving cyber threats.
 
 ---
 
-## 💻 Technical Mastery:  
-✅ **Artificial Intelligence & Cybersecurity** – Developing **ML-driven security tools**, anomaly detection, and predictive analytics.  
-✅ **Offensive & Defensive Security** – Ethical hacking, **penetration testing (Web, Network, Wi-Fi, IoT)**, and malware analysis.  
-✅ **Advanced Networking & Infrastructure** – Proficient in **CCNA/CCNP, SDN, firewall configurations, and network forensics**.  
-✅ **Full-Stack Development** – Expertise in **mobile & web development**, building **scalable, AI-integrated applications**.  
-✅ **Cloud & DevSecOps** – AWS, Azure, and **Kubernetes security, CI/CD pipelines, and infrastructure hardening**.  
-✅ **Automation & Exploit Development** – Python, Bash, and PowerShell scripting for **automation, security, and reverse engineering**.  
+## 🔐 What I Do
+
+* 🎯 **Bug Bounty Hunting** – Active on HackerOne with real-life vulnerability findings.
+* 🛡 **Ethical Hacking & Pentesting** – Web, network, IoT, and wireless security.
+* 📡 **Networking & Security Labs** – 30+ tutorials on VLANs, ACLs, DHCP spoofing, etc.
+* 🔍 **Cybersecurity Projects** – Building security tools like **Phish-Detector** and **Automated Traffic Analyzer**.
+* 🏆 **Hackathon Achievements** – 1st Rank (IoT Security), Runner-up in multiple CTFs.
 
 ---
 
-## 🔍 Cutting-Edge Interests & Collaborations:  
-💡 **AI-Powered Security** – Integrating **machine learning with cybersecurity for advanced threat detection**.  
-💡 **Zero Trust Architecture & Network Defense** – Fortifying networks with next-gen security models.  
-💡 **Cybersecurity Research & Red Teaming** – Developing custom **exploits, conducting penetration tests, and ethical hacking projects**.  
-💡 **Blockchain & Web3 Security** – Exploring **smart contract security, DeFi threats, and cryptographic algorithms**.  
-💡 **Automated Security Systems** – AI-driven **SOC solutions, SIEM automation, and intrusion prevention systems**.  
+## 🛠 Tech Stack & Skills
+
+* **Cybersecurity Tools:** Kali Linux, Burp Suite, Nmap, Wireshark, Metasploit
+* **Programming & Scripting:** Python, C, C++, Bash
+* **Networking:** CCNA-level skills, Cisco Packet Tracer, SDN concepts
+* **Web Security & Dev:** HTML, CSS, Flask
+* **Platforms:** HackerOne ([@mrzerotrace](https://hackerone.com/mrzerotrace)), TryHackMe (Top 10%)
 
 ---
 
-## 🎯 Advanced Learning & Specialization:  
-📌 **AI in Cybersecurity** – Using AI/ML for **anomaly detection, malware classification, and automated threat hunting**.  
-📌 **Reverse Engineering & Exploit Development** – Diving deep into **binary exploitation, malware analysis, and buffer overflows**.  
-📌 **Advanced Penetration Testing** – Mastering **red teaming, web app security, and wireless network attacks**.  
-📌 **Cloud & Kubernetes Security** – Enhancing **AWS/Azure/GCP security** with automated cloud compliance frameworks.  
-📌 **IoT & Automotive Security** – Securing **smart devices, automotive systems, and embedded hardware**.  
+## 📚 Education & Certifications
+
+* 🎓 **B.Tech Cyber Security | Central University of Jammu (2023–2027)**
+* 🏅 **Certified Ethical Hacker (CEH – EC Council)**
+* 🏅 **Linux Privilege Escalation (TryHackMe)**
+* 🏅 **Bug Bounty & Ethical Hacking Certifications**
 
 ---
 
-## 💡 Ask Me About:  
-🔹 AI-Driven Cybersecurity & Automation  
-🔹 Ethical Hacking, Exploit Development, and Reverse Engineering  
-🔹 Red Team vs. Blue Team Security Strategies  
-🔹 Cloud & Network Security (CCNA, CCNP, AWS, SDN)  
-🔹 AI, Machine Learning & Intelligent Automation  
-🔹 Cybersecurity Entrepreneurship & Startups  
+## ⚡ Quick Links
+
+🌐 [Portfolio](https://nitinssportfolio.netlify.app)
+🐙 [GitHub](https://github.com/nitinscodehub)
+💼 [LinkedIn](https://linkedin.com/in/nitin-dhurve-b1493b288)
+🎥 [YouTube](https://youtube.com/@in11min)
 
 ---
 
-## ⚡ Fun Facts & Personal Highlights:  
-🔹 I’m an **AI-driven cybersecurity innovator** who enjoys **breaking (and securing) systems**.  
-🔹 I love working on **stealth security tools**, **AI-based intrusion detection**, and **dark web intelligence**.  
-🔹 A big believer in **automation-first security** – scripting, AI, and DevSecOps for rapid incident response.  
-🔹 Passionate about **mentorship and knowledge-sharing**, helping others navigate the tech industry.  
-🔹 My brain thrives on **capturing the flag (CTF) competitions, red teaming challenges, and bug bounties**!  
+👉 Always curious about **new exploits, red teaming challenges, and CTFs**.
+Let’s connect & collaborate on **cybersecurity and ethical hacking projects** 🔥.
 
 ---
 
-## 📚 Education & Certifications:  
-🎓 **BTech in Cybersecurity (2nd Year) | CU Jammu**  
-🏆 **Certifications & Training:**  
-- **CCNA / CCNP (Networking & Infrastructure Security)**  
-- **Certified Ethical Hacker (CEH)**  
-- **Offensive Security Certified Professional (OSCP) [In Progress]**  
-- **AWS Cloud Security & DevSecOps Training**  
-- **Machine Learning & AI Security Specialization**  
-
-
-## 📝 My Resume:
+# 📝 My Resume:
 <p align="l">
   <a href="https://drive.google.com/file/d/1C9gZ8tCvpZyAHNRwuaC1Ov06ISmWJOZ4/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=google-drive&logoColor=white" style="box-shadow: 0px 0px 10px 2px rgba(0, 191, 255, 0.8);">
