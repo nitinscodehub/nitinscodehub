@@ -62,7 +62,7 @@ Let’s connect & collaborate on **cybersecurity and ethical hacking projects** 
 
 # 📝 My Resume:
 <p align="l">
-  <a href="https://drive.google.com/file/d/1C9gZ8tCvpZyAHNRwuaC1Ov06ISmWJOZ4/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1XJMS8vL8FTuyZriZ5jFXE4jPllPUpMKy/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=google-drive&logoColor=white" style="box-shadow: 0px 0px 10px 2px rgba(0, 191, 255, 0.8);">
   </a>
 </p>
