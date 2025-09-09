@@ -111,14 +111,14 @@ Let’s connect & collaborate on **cybersecurity and ethical hacking projects** 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nitinscodehub&theme=radical&hide_border=false" height="180em" />
 </p>
 
-
-
 ---
 
 ### ⚡ Recent GitHub Activity  
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinscodehub&theme=radical&hide_border=false&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinscodehub&theme=radical&hide_border=false&area=true&bg_color=0d1117&color=ff0080&line=ff0080&point=ffffff&area_color=ff0080" alt="Activity Graph" />
 </p>
+
 
 
 
