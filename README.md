@@ -2,10 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=%3E+Welcome+to+Nitin's+Hacker+Space;Cybersecurity+Aspirant+%7C+Bug+Bounty+Hunter;Security+Researcher+%7C+CTF+Champion;Glitch+in+the+Matrix+Detected..." alt="Glitch Banner" />
 </p>
-
-<h1 align="center" style="color:#39ff14;text-shadow:0 0 5px #39ff14,0 0 10px #0ff,0 0 20px #ff00ff;">💻 NITIN DHURVE 😁❤️</h1>
-<h3 align="center" style="color:#0ff;text-shadow:0 0 5px #0ff,0 0 10px #ff00ff;">Cybersecurity Aspirant | Bug Bounty Hunter | Security Researcher</h3>
-
 ---
 # <p align="left" id="itsabha"> <h1>I AM NITIN DHURVE 😁❤️</h1> <h5> (go down 👇) </h5>
 <h4>My Website Link 😁  <a href="https://nitinssportfolio.netlify.app/"> Portfolio Website👆</a></h>
@@ -32,7 +28,7 @@ With hands-on experience in **real-world bug bounties, TryHackMe top 10% labs, a
 * 🛡 **Ethical Hacking & Pentesting** – Web, network, IoT, and wireless security.
 * 📡 **Networking & Security Labs** – 30+ tutorials on VLANs, ACLs, DHCP spoofing, etc.
 * 🔍 **Cybersecurity Projects** – Building security tools like **Phish-Detector** and **Automated Traffic Analyzer**.
-* 🏆 **Hackathon Achievements** – 1st Rank (IoT Security), Runner-up in multiple CTFs.
+* 🏆 **CTF Achievements** – 1st Rank (CyberCUJ , CU JAMMU), Runner-up in multiple CTFs (IIT JAMMU)
 
 ---
 
