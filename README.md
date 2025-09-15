@@ -194,4 +194,4 @@ Let’s connect & collaborate on **cybersecurity and ethical hacking projects** 
 </p>
 
 ## 📧 Contact Me:
-Feel free to reach out via email: [ni23beccs33@cujammu.ac.in](mailto:ni23beccs33@cujammu.ac.in)
+Feel free to reach out via email: [dhurvenitin05@gmail.com](mailto:dhurvenitin05@gmail.com)
