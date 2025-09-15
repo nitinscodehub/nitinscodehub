@@ -1,34 +1,34 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/LU1cyLealXkAAAAC/hacker-hack.gif" width="35%">
+  <img src="https://media1.tenor.com/m/LU1cyLealXkAAAAC/hacker-hack.gif" width="40%">
 </p>
 
-<h1 align="center">I AM NITIN DHURVE 😁❤️</h1>
-<h4 align="center">Cybersecurity Aspirant | Bug Bounty Hunter | Security Researcher</h4>
+<h1 align="center">💻 I AM NITIN DHURVE 😁❤️</h1>
+<h3 align="center">Cybersecurity Aspirant | Bug Bounty Hunter | Security Researcher</h3>
 <p align="center">Go down 👇 | <a href="https://nitinssportfolio.netlify.app/">Portfolio Website</a></p>
 
 ---
 
-## 👨‍💻 About Me
-I’m **Nitin Dhurve**, a **Cybersecurity Enthusiast & Bug Bounty Hunter**.  
+## 🕵️ About Me
+I’m **Nitin Dhurve**, a **Cybersecurity Geek & Ethical Hacker**.  
 Currently pursuing **B.Tech in Cyber Security at CU Jammu (2023–2027)**.  
 
-I specialize in **ethical hacking, penetration testing, and network security**.  
-I love breaking things to make them secure 🔐.  
+I specialize in **penetration testing, bug bounty hunting, and network security**.  
+Passionate about **breaking systems to secure them** 🔐.  
 
 ---
 
-## 🔐 What I Do
-- 🎯 **Bug Bounty Hunting** – Active on HackerOne, real-life vulnerability discoveries.  
-- 🛡 **Ethical Hacking & Pentesting** – Web, network, IoT, wireless security.  
-- 📡 **Networking & Security Labs** – VLANs, ACLs, DHCP spoofing & more.  
-- 🔍 **Cybersecurity Projects** – Phish-Detector, Automated Traffic Analyzer.  
-- 🏆 **Hackathon Achievements** – 1st Rank IoT Security, multiple CTF runner-ups.  
+## 🎯 What I Do
+- **Bug Bounty Hunting** – Active on HackerOne, real-life vulnerabilities discovered.  
+- **Ethical Hacking & Pentesting** – Web, Network, IoT & Wireless.  
+- **Networking & Security Labs** – VLANs, ACLs, DHCP Spoofing & more.  
+- **Cybersecurity Projects** – Phish-Detector, Automated Traffic Analyzer.  
+- **Hackathons & CTFs** – 1st Rank IoT Security, multiple runner-ups.  
 
 ---
 
 ## 🛠 Tech Stack & Skills
 
-### 🛡️ Security & Hacking
+### 🛡 Security & Hacking
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-2C2C2C?style=for-the-badge&logo=socketdotio&logoColor=white)
@@ -71,7 +71,7 @@ I love breaking things to make them secure 🔐.
 
 ---
 
-## 📝 My Resume
+## 📝 Resume
 <p align="center">
   <a href="https://drive.google.com/file/d/1XJMS8vL8FTuyZriZ5jFXE4jPllPUpMKy/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=google-drive&logoColor=white" />
@@ -118,4 +118,4 @@ I love breaking things to make them secure 🔐.
 
 ## 📧 Contact Me
 Email me at: [ni23beccs33@cujammu.ac.in](mailto:ni23beccs33@cujammu.ac.in)  
-Let’s connect & innovate together! 🔥
+Let's hack, innovate & secure the future together 🔥
