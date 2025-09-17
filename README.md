@@ -113,9 +113,10 @@ Let’s connect & collaborate on **cybersecurity and ethical hacking projects** 
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitinscodehub&show_icons=true&theme=radical&count_private=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinscodehub&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrzerotrace&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=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" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrzerotrace&theme=radical" height="180em" />
 </p>
+
 
 
 ---
