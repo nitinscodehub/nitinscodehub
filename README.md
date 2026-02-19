@@ -54,9 +54,11 @@ With hands-on experience in **real-world bug bounties, TryHackMe top 10% labs, a
 ## ⚡ Quick Links
 
 🌐 [Portfolio](https://nitinssportfolio.netlify.app)  
+🎯 [LeetCode](https://leetcode.com/u/nitinsleetcodehub/) 
 🐙 [GitHub](https://github.com/nitinscodehub)  
 💼 [LinkedIn](https://linkedin.com/in/nitin-dhurve-b1493b288)  
 🎥 [YouTube](https://youtube.com/@in11min)  
+
 
 ---
 
