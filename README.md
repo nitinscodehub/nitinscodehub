@@ -3,15 +3,29 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=%3E+Welcome+to+Nitin's+Hacker+Space;Cybersecurity+Aspirant+%7C+Bug+Bounty+Hunter;Security+Researcher+%7C+CTF+Champion;Glitch+in+the+Matrix+Detected..." alt="Glitch Banner" />
 </p>
 
-<h1 align="left" id="itsabha">I AM NITIN DHURVE 😁❤️</h1>
-<h5 align="left">(go down 👇)</h5>
-<h4 align="left">My Website Link 😁 <a href="https://nitinssportfolio.netlify.app/">Portfolio Website 👆</a></h4>
-<h4 style="text-align:left">
-  My Website Link —
-  <a href="https://mntechfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
-    Contra Freelancing Duo Portfolio Site
-  </a>
-</h4>
+<div id="itsabha" style="text-align:left;line-height:1.6">
+  <h1 style="margin:0 0 6px;font-size:2rem;font-weight:800;letter-spacing:-.03em;color:#111a33">
+    I'm <span style="background:linear-gradient(90deg,#0e7490,#6d4bd8,#be345b);-webkit-background-clip:text;background-clip:text;color:transparent">Nitin Dhurve</span> 😁❤️
+  </h1>
+
+  <p style="margin:0 0 18px;color:#4d5875;font-size:.85rem">
+    Thoda neeche scroll karein 👇
+  </p>
+
+  <div style="display:flex;flex-wrap:wrap;gap:12px">
+    <a href="https://nitinssportfolio.netlify.app/"
+       target="_blank" rel="noopener noreferrer"
+       style="display:inline-flex;align-items:center;gap:8px;padding:12px 18px;border-radius:999px;background:#eef8fb;border:1px solid #0e7490;color:#0e7490;text-decoration:none;font-weight:600;font-size:.9rem">
+      🌐 My Personal Portfolio <span style="font-size:.75rem">↗</span>
+    </a>
+
+    <a href="https://mntechfolio.vercel.app/"
+       target="_blank" rel="noopener noreferrer"
+       style="display:inline-flex;align-items:center;gap:8px;padding:12px 18px;border-radius:999px;background:linear-gradient(90deg,#0e7490,#6d4bd8,#be345b);color:#fff;text-decoration:none;font-weight:700;font-size:.9rem;box-shadow:0 10px 24px -10px rgba(109,75,216,.7)">
+      ✨ Nitin &amp; Mahi — Duo Studio Portfolio <span style="font-size:.75rem">↗</span>
+    </a>
+  </div>
+</div>
 
 
 <p align="center">
