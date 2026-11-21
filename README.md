@@ -1,200 +1,172 @@
-<h1 id="itsabha">I'm Nitin Dhurve 😁❤️</h1>
-<p>Go down 👇</p>
+<div align="center">
 
-<p>🌐 My Personal Portfolio →
-<a href="https://nitinssportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">https://nitinssportfolio.netlify.app/</a>
-</p>
+<img src="https://media1.tenor.com/m/LU1cyLealXkAAAAC/hacker-hack.gif" width="150" alt="Hacker animation" />
 
-<p>✨ Nitin &amp; Mahi — Duo Studio Portfolio →
-<a href="https://mntechfolio.vercel.app/" target="_blank" rel="noopener noreferrer">https://mntechfolio.vercel.app/</a>
-</p>
+# I'm Nitin Dhurve 😁❤️
 
+**Cybersecurity aspirant · Security researcher · Full-stack Web Developer . App Developer . AI/ML Engineer**
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/LU1cyLealXkAAAAC/hacker-hack.gif" width="30%">
-</p>
+> *Build. Secure. Ship.* — with Mahi, as one studio.
+
+<br>
+
+<a href="https://nitinssportfolio.netlify.app/"><img src="https://img.shields.io/badge/Personal_Portfolio-0e7490?style=for-the-badge&logo=netlify&logoColor=white" alt="Personal portfolio" /></a>
+<a href="https://mntechfolio.vercel.app/"><img src="https://img.shields.io/badge/Nitin_%26_Mahi_Duo_Studio-6d4bd8?style=for-the-badge&logo=vercel&logoColor=white" alt="Duo studio portfolio" /></a>
+<a href="https://mntechfolio.vercel.app/videos/demo.mp4"><img src="https://img.shields.io/badge/Watch_30s_Demo-be345b?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo video" /></a>
+
+<br>
+
+🌐 [Personal site](https://nitinssportfolio.netlify.app/) · ✨ [Duo studio site](https://mntechfolio.vercel.app/) · 👇 [Scroll to explore](#-about-me)
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I’m **Nitin Dhurve**, a **Cybersecurity Aspirant, Bug Bounty Hunter, and Security Researcher**.  
-Currently pursuing **B.Tech in Cyber Security at CU Jammu (2023–2027)**, I specialize in **ethical hacking, penetration testing, and network security**.
+I'm **Nitin Dhurve** — a cybersecurity aspirant, bug-bounty learner and security researcher who also ships real web, Flutter and AI/ML products. Currently pursuing **B.Tech in Cyber Security at Central University of Jammu (2023–2027)**.
 
-With hands-on experience in **real-world bug bounties, TryHackMe top 10% labs, and hackathon wins**, I’m passionate about breaking systems to secure them. My focus is on **offensive security, exploit development, and practical hacking techniques** that help organizations stay ahead of evolving cyber threats.
+I like breaking systems to understand them, then building them back stronger — with a security-first mindset in every deliverable. Alongside Mahi, I run a two-engineer freelancing studio: she owns client communication and delivery, I lead engineering and security.
+
+> 🔥 **Currently open to:** Web development · Flutter apps · VAPT / pentesting · AI/ML · automation.
 
 ---
 
 ## 🔐 What I Do
 
-* 🎯 **Bug Bounty Hunting** – Active on HackerOne with real-life vulnerability findings.  
-* 🛡 **Ethical Hacking & Pentesting** – Web, network, IoT, and wireless security.  
-* 📡 **Networking & Security Labs** – 30+ tutorials on VLANs, ACLs, DHCP spoofing, etc.  
-* 🔍 **Cybersecurity Projects** – Building security tools like **Phish-Detector** and **Automated Traffic Analyzer**.  
-* 🏆 **CTF Achievements** – 1st Rank (CyberCUJ, CU JAMMU), Runner-up in multiple CTFs (IIT JAMMU)  
+| | Focus |
+|---|---|
+| 🎯 | **Bug Bounty & VAPT** — web app testing against the OWASP Top 10, reporting with remediation |
+| 🛡️ | **Red Teaming & AD Security** — Active Directory assessment, recon and privilege-escalation practice |
+| 💻 | **Full-Stack Builds** — React, Node/Express, FastAPI, Flutter, Firebase, PostgreSQL |
+| 🤖 | **AI / ML** — phishing detection, classifiers and practical data pipelines |
+| 🏆 | **CTFs & Hackathons** — competitive security, 1st ranks and multiple finalist appearances |
+
+---
+
+## ⚡ Proof at a Glance
+
+| 🏅 | Result |
+|---|---|
+| 🥇 | **1st Rank** — CyberCUJ CTF, CU Jammu 2024 |
+| 🥈 | **2nd Rank** — Cybersecurity Competition, IIT Jammu 2024 |
+| 🥉 | **5th Rank** — ANHAD CTF, IIT Jammu 2024 |
+| 🎖️ | **Top 10 Finalist** — Indian Army Terrier Cyber Quest 2025 |
+| 🧠 | **200+** LeetCode problems · **50+** public GitHub repos |
+| 🎓 | **Certificate of Merit** — e-Yantra, IIT Bombay (97/100) |
 
 ---
 
 ## 🛠 Tech Stack & Skills
 
-* **Cybersecurity Tools:** Kali Linux, Burp Suite, Nmap, Wireshark, Metasploit  
-* **Programming & Scripting:** Python, C, C++, Bash  
-* **Networking:** CCNA-level skills, Cisco Packet Tracer, SDN concepts  
-* **Web Security & Dev:** HTML, CSS, Flask  
-* **Platforms:** HackerOne ([@mrzerotrace](https://hackerone.com/mrzerotrace)), TryHackMe (Top 10%)  
+### 🛡️ Security & Hacking
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-2C2C2C?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-0077B5?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-5A2D82?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### 🌐 Web, Mobile & Cloud
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
 ## 📚 Education & Certifications
 
-* 🎓 **B.Tech Cyber Security | Central University of Jammu (2023–2027)**  
-* 🏅 **Certified Ethical Hacker (CEH – EC Council)**  
-* 🏅 **Linux Privilege Escalation (TryHackMe)**  
-* 🏅 **Bug Bounty & Ethical Hacking Certifications**  
+* 🎓 **B.Tech Cyber Security** — Central University of Jammu (2023–2027)
+* 🏅 **CEH + CSEH training** — completed
+* 🐧 **Linux Privilege Escalation** — TryHackMe
+* 🎯 **Ethical Hacking & Bug Bounty** — Udemy
+* 📜 **CCC** — NIELIT
+
+<div align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/ni23beccs33.png" alt="TryHackMe badge" />
+</div>
 
 ---
 
-## ⚡ Quick Links
+## 🚀 Selected Work
 
-🌐 [Portfolio](https://nitinssportfolio.netlify.app)  
-🎯 [LeetCode](https://leetcode.com/u/nitinsleetcodehub)<br> 
-🐙 [GitHub](https://github.com/nitinscodehub)  
-💼 [LinkedIn](https://linkedin.com/in/nitin-dhurve-b1493b288)  
-🎥 [YouTube](https://youtube.com/@in11min)  
+| Project | What it is | Link |
+|---|---|---|
+| ✨ **Nitin & Mahi Duo Studio** | Animated portfolio with live case studies and demo video | [Live](https://mntechfolio.vercel.app/) · [Code](https://github.com/nitinscodehub/nitin-mahi-portfolio) |
+| 🌐 **Personal Portfolio** | Cybersecurity-focused personal site | [Live](https://nitinssportfolio.netlify.app/) |
+| 📊 **Pulse** | Analytics dashboard with insights + AI fallback | [Live](https://pulse-analytics-three.vercel.app/) · [Code](https://github.com/nitinscodehub/pulse-analytics) |
+| 💬 **Askly** | RAG knowledge assistant with streaming chat | [Live](https://askly-kappa.vercel.app/) · [Code](https://github.com/nitinscodehub/askly) |
+| 🛒 **Cartly** | Headless storefront with working cart | [Live](https://cartly-self.vercel.app/) · [Code](https://github.com/nitinscodehub/cartly) |
+| ⚙️ **Flowbit** | Visual workflow builder with animated runs | [Live](https://flowbit-silk.vercel.app/) · [Code](https://github.com/nitinscodehub/flowbit) |
 
-
----
-
-👉 Always curious about **new exploits, red teaming challenges, and CTFs**.  
-Let’s connect & collaborate on **cybersecurity and ethical hacking projects** 🔥  
-
----
-
-# 📝 My Resume:
-<p align="left">
-  <a href="https://drive.google.com/file/d/1XJMS8vL8FTuyZriZ5jFXE4jPllPUpMKy/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=google-drive&logoColor=white">
-  </a>
-</p>
+📄 [Download resume](https://drive.google.com/file/d/1XJMS8vL8FTuyZriZ5jFXE4jPllPUpMKy/view?usp=sharing)
 
 ---
 
-# 💻 Tech Stack (Cybersecurity + Dev)
+## 🔗 Quick Links
 
-### 🛡️ Security & Hacking
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)  
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)  
-![Nmap](https://img.shields.io/badge/Nmap-2C2C2C?style=for-the-badge&logo=socketdotio&logoColor=white)  
-![Metasploit](https://img.shields.io/badge/Metasploit-%230077B5.svg?style=for-the-badge&logo=metasploit&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)  
-
-### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)  
-
-### 🌐 Web & Networking
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
-![Cisco](https://img.shields.io/badge/Cisco-%23049FD9.svg?style=for-the-badge&logo=cisco&logoColor=white)  
-
-### 📱 Mobile & Frontend Dev
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)  
-
-### ☁️ Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-0e7490?style=for-the-badge&logo=netlify&logoColor=white)](https://nitinssportfolio.netlify.app/)
+[![Duo Studio](https://img.shields.io/badge/Duo_Studio-6d4bd8?style=for-the-badge&logo=vercel&logoColor=white)](https://mntechfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitinscodehub)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-dhurve-b1493b288/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nitinsleetcodehub/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/dhurvenitin05)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@in11min)
+[![HackerOne](https://img.shields.io/badge/HackerOne-8B5CF6?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/mrzerotrace)
 
 ---
 
-## 🥇 🕵️ TryHackMe Badge
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ni23beccs33.png" alt="TryHackMe Badge" />
-</p>
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nitinscodehub&amp;show_icons=true&amp;theme=radical&amp;count_private=true&amp;include_all_commits=true" width="420" alt="GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinscodehub&amp;theme=radical" width="420" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinscodehub&amp;bg_color=0d1117&amp;color=ff0080&amp;line=ff0080&amp;point=ffffff&amp;area=true&amp;hide_border=false" width="700" alt="Activity graph" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=nitinscodehub&amp;theme=radical&amp;no-frame=false&amp;no-bg=true&amp;margin-w=15&amp;margin-h=15" alt="GitHub trophies" />
+
+</div>
 
 ---
 
-## 📊 GitHub Stats & Activity  
+## 🎬 Fun Corner
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitinscodehub&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinscodehub&theme=radical" height="180em" />
-</p>
-
----
-
-### ⚡ Recent GitHub Activity  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinscodehub&bg_color=0d1117&color=ff0080&line=ff0080&point=ffffff&area=true&hide_border=false" alt="Activity Graph" />
-</p>
-
----
-
-### 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nitinscodehub&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 🔧 Tools & Languages
-
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="Linux" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VS Code" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="Jupyter" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" height="60"/>
-  <img src="https://img.icons8.com/color/452/react-native.png" alt="React Native" height="60"/>
-  <img src="https://seeklogo.com/images/E/expo-go-app-logo-BBBBF92D8C-seeklogo.com.png" alt="Expo" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" height="60"/>
-</p>
-
----
-
-## 📈 Competitive Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/ynJHWbuuyU/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/dhurvenitin05)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/itsaayy)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/nitincodecheff)  
-
----
-
-## ⚙️ More Information:
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30%">
-</p>
-
-👨‍💻 "I'm a tech geek who believes that the best way to predict the future is to create it. Always up for a challenge, whether it's a complex coding problem or a cybersecurity puzzle. Let's connect and innovate together!"
-
----
-
-# 🎬 Fun Corner:
 > 🐍 Why did the Python developer break up with his girlfriend?  
-> Because she had too many *C++* issues.  
+> Because she had too many *C++* issues.
 
-> 🔐 Why don’t hackers ever get locked out of their houses?  
-> Because they always have a *backdoor*.  
+> 🔐 Why don't hackers ever get locked out of their houses?  
+> Because they always have a *backdoor*.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/Rkis28kMJd1aE/giphy.gif" width="30%">
-</p>
+<div align="center">
+<img src="https://media.giphy.com/media/Rkis28kMJd1aE/giphy.gif" width="220" alt="Fun" />
+</div>
 
 ---
 
-## 📧 Contact Me:
-📩 Email: [dhurvenitin05@gmail.com](mailto:dhurvenitin05@gmail.com)
+<div align="center">
+
+### 📧 Let's connect
+
+📩 **Email:** [dhurvenitin05@gmail.com](mailto:dhurvenitin05@gmail.com)
+
+👨‍💻 *"The best way to predict the future is to create it."*
+
+**Always curious about new exploits, red teaming challenges and CTFs. Let's build something secure together 🔥**
+
+</div>
